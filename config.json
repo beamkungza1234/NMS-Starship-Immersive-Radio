@@ -1,0 +1,60 @@
+{
+    "system": {
+        "pointer_offset_hex": "0x596F740",
+        "vlc_path": "C:\\Program Files\\VideoLAN\\VLC"
+    },
+    "audio": {
+        "max_volume": 90,
+        "fade_speed": 0.05,
+        "static_sound_file": "static.mp3",
+        "static_duration": 0.8,
+        "static_volume": 100 
+    },
+    "keys": {
+        "next_station": "f8",
+        "prev_station": "f6",
+        "pair_ship": "f7"
+    },
+    "stations": [
+        { 
+            "name": "NMSFM (Official Fan-made)", 
+            "url": "https://stream-175.zeno.fm/9kz76c8mdg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5a3o3NmM4bWRnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlFFMmhScXBPU2ZLNHROdmpYM3Fpa0EiLCJpYXQiOjE3NjkwMTQ2MDQsImV4cCI6MTc2OTAxNDY2NH0.bCJ-1c7yOYX0qmd2I3eC6O8MPR1RZIz34aaL95WVgSg",
+            "volume": 100
+        },
+        { 
+            "name": "Lofi Girl (Chill Beats)", 
+            "url": "https://play.streamafrica.net/lofiradio",
+            "volume": 85
+        },
+        { 
+            "name": "Synthwave Radio", 
+            "url": "https://stream.nightride.fm/nightride.m4a",
+            "volume": 100
+        },
+        { 
+            "name": "Cool Fahrenheit", 
+            "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+            "volume": 70
+        },
+        { 
+            "name": "FM91 TrafficPro", 
+            "url": "http://122.155.16.48:8955/;stream.mp3",
+            "volume": 100
+        },
+        { 
+            "name": "Jpop Music", 
+            "url": "https://listen.moe/opus",
+            "volume": 60
+        },
+        { 
+            "name": "Esan Network", 
+            "url": "http://radio11.plathong.net:8900/;stream.mp3",
+            "volume": 100
+        },
+        { 
+            "name": "Greenwave", 
+            "url": "https://atimeonline3.smartclick.co.th/green",
+            "volume": 80
+        }
+    ]
+}
