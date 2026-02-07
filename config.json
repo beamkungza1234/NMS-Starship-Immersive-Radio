@@ -13,11 +13,12 @@
     "keys": {
         "next_station": "f8",
         "prev_station": "f6",
-        "pair_ship": "f7"
+        "pair_ship": "f7",
+        "toggle_power": "f5"
     },
     "stations": [
         { 
-            "name": "NMSFM (Official Fan-made)", 
+            "name": "NMSFM", 
             "url": "https://stream-175.zeno.fm/9kz76c8mdg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5a3o3NmM4bWRnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlFFMmhScXBPU2ZLNHROdmpYM3Fpa0EiLCJpYXQiOjE3NjkwMTQ2MDQsImV4cCI6MTc2OTAxNDY2NH0.bCJ-1c7yOYX0qmd2I3eC6O8MPR1RZIz34aaL95WVgSg",
             "volume": 100
         },
