@@ -22,7 +22,8 @@ This is a simple external script (Python) that plays online radio stations when 
     * [VLC Media Player](https://www.videolan.org/vlc/) (Must be installed! The script uses VLC's engine)
 
 ---
-
+## 🎥Video Demo
+[![NMS Radio Demo](https://img.youtube.com/vi/olyZUqzuAbM/maxresdefault.jpg)](https://youtu.be/olyZUqzuAbM)
 ## 📥 Installation
 
 1.  **Clone or Download** this repository.
